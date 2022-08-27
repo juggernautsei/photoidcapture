@@ -15,4 +15,3 @@ The code is incomplete for a drop in integration with OpenEMR. It is can be comp
 The has been some security considerations. One is to switch out the use of the pid for the p-uuid. That would be a lot harder to brute force. 
 
 At this time my next steps is to import the uploaded image into the patient chart. This will further enhance the security of the upload.
-
